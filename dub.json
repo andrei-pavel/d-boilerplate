@@ -1,0 +1,12 @@
+{
+	"description": "A simple D boilerplate",
+	"license": "MIT",
+	"authors": [
+		"Andrei Pavel <andrei.pavel@cti.pub.ro>"
+	],
+	"copyright": "Copyright © 2019, Andrei Pavel <andrei.pavel@cti.pub.ro>",
+	"name": "d-boilerplate",
+	"dependencies": {
+	    "dyaml": "*"
+	}
+}
